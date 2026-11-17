@@ -1,0 +1,6 @@
+-- Intentionally empty.
+--
+-- This file runs after migrations on `supabase db reset`. The template ships
+-- no seed data: the tables hold personal data (waitlist sign-ups, deletion
+-- requests), so not even fake rows are committed. Add your own local fixtures
+-- here if you need them.
